@@ -3,40 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\lvergara\\source\\repos\\HttpClientApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71A9872D-B963-4D50-9671-2C479886D285}|HttpClientApi\\HttpClientApi.csproj|c:\\users\\lvergara\\source\\repos\\httpclientapi\\httpclientapi\\services\\birdsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71A9872D-B963-4D50-9671-2C479886D285}|HttpClientApi\\HttpClientApi.csproj|solutionrelative:httpclientapi\\services\\birdsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71A9872D-B963-4D50-9671-2C479886D285}|HttpClientApi\\HttpClientApi.csproj|c:\\users\\lvergara\\source\\repos\\httpclientapi\\httpclientapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A9872D-B963-4D50-9671-2C479886D285}|HttpClientApi\\HttpClientApi.csproj|solutionrelative:httpclientapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71A9872D-B963-4D50-9671-2C479886D285}|HttpClientApi\\HttpClientApi.csproj|c:\\users\\lvergara\\source\\repos\\httpclientapi\\httpclientapi\\controllers\\birdscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71A9872D-B963-4D50-9671-2C479886D285}|HttpClientApi\\HttpClientApi.csproj|solutionrelative:httpclientapi\\controllers\\birdscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{71A9872D-B963-4D50-9671-2C479886D285}|HttpClientApi\\HttpClientApi.csproj|c:\\users\\lvergara\\source\\repos\\httpclientapi\\httpclientapi\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A9872D-B963-4D50-9671-2C479886D285}|HttpClientApi\\HttpClientApi.csproj|solutionrelative:httpclientapi\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A9872D-B963-4D50-9671-2C479886D285}|HttpClientApi\\HttpClientApi.csproj|c:\\users\\lvergara\\source\\repos\\httpclientapi\\httpclientapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A9872D-B963-4D50-9671-2C479886D285}|HttpClientApi\\HttpClientApi.csproj|solutionrelative:httpclientapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A9872D-B963-4D50-9671-2C479886D285}|HttpClientApi\\HttpClientApi.csproj|c:\\users\\lvergara\\source\\repos\\httpclientapi\\httpclientapi\\services\\birdsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A9872D-B963-4D50-9671-2C479886D285}|HttpClientApi\\HttpClientApi.csproj|solutionrelative:httpclientapi\\services\\birdsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{71A9872D-B963-4D50-9671-2C479886D285}|HttpClientApi\\HttpClientApi.csproj|c:\\users\\lvergara\\source\\repos\\httpclientapi\\httpclientapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{71A9872D-B963-4D50-9671-2C479886D285}|HttpClientApi\\HttpClientApi.csproj|solutionrelative:httpclientapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A9872D-B963-4D50-9671-2C479886D285}|HttpClientApi\\HttpClientApi.csproj|c:\\users\\lvergara\\source\\repos\\httpclientapi\\httpclientapi\\services\\ibooksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A9872D-B963-4D50-9671-2C479886D285}|HttpClientApi\\HttpClientApi.csproj|solutionrelative:httpclientapi\\services\\ibooksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71A9872D-B963-4D50-9671-2C479886D285}|HttpClientApi\\HttpClientApi.csproj|c:\\users\\lvergara\\source\\repos\\httpclientapi\\httpclientapi\\services\\ibirdsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71A9872D-B963-4D50-9671-2C479886D285}|HttpClientApi\\HttpClientApi.csproj|solutionrelative:httpclientapi\\services\\ibirdsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71A9872D-B963-4D50-9671-2C479886D285}|HttpClientApi\\HttpClientApi.csproj|c:\\users\\lvergara\\source\\repos\\httpclientapi\\httpclientapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71A9872D-B963-4D50-9671-2C479886D285}|HttpClientApi\\HttpClientApi.csproj|solutionrelative:httpclientapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71A9872D-B963-4D50-9671-2C479886D285}|HttpClientApi\\HttpClientApi.csproj|c:\\users\\lvergara\\source\\repos\\httpclientapi\\httpclientapi\\models\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71A9872D-B963-4D50-9671-2C479886D285}|HttpClientApi\\HttpClientApi.csproj|solutionrelative:httpclientapi\\models\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71A9872D-B963-4D50-9671-2C479886D285}|HttpClientApi\\HttpClientApi.csproj|c:\\users\\lvergara\\source\\repos\\httpclientapi\\httpclientapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A9872D-B963-4D50-9671-2C479886D285}|HttpClientApi\\HttpClientApi.csproj|solutionrelative:httpclientapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71A9872D-B963-4D50-9671-2C479886D285}|HttpClientApi\\HttpClientApi.csproj|c:\\users\\lvergara\\source\\repos\\httpclientapi\\httpclientapi\\models\\name.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71A9872D-B963-4D50-9671-2C479886D285}|HttpClientApi\\HttpClientApi.csproj|solutionrelative:httpclientapi\\models\\name.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71A9872D-B963-4D50-9671-2C479886D285}|HttpClientApi\\HttpClientApi.csproj|c:\\users\\lvergara\\source\\repos\\httpclientapi\\httpclientapi\\models\\links.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71A9872D-B963-4D50-9671-2C479886D285}|HttpClientApi\\HttpClientApi.csproj|solutionrelative:httpclientapi\\models\\links.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71A9872D-B963-4D50-9671-2C479886D285}|HttpClientApi\\HttpClientApi.csproj|c:\\users\\lvergara\\source\\repos\\httpclientapi\\httpclientapi\\models\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A9872D-B963-4D50-9671-2C479886D285}|HttpClientApi\\HttpClientApi.csproj|solutionrelative:httpclientapi\\models\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71A9872D-B963-4D50-9671-2C479886D285}|HttpClientApi\\HttpClientApi.csproj|c:\\users\\lvergara\\source\\repos\\httpclientapi\\httpclientapi\\models\\images.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71A9872D-B963-4D50-9671-2C479886D285}|HttpClientApi\\HttpClientApi.csproj|solutionrelative:httpclientapi\\models\\images.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71A9872D-B963-4D50-9671-2C479886D285}|HttpClientApi\\HttpClientApi.csproj|c:\\users\\lvergara\\source\\repos\\httpclientapi\\httpclientapi\\models\\links.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A9872D-B963-4D50-9671-2C479886D285}|HttpClientApi\\HttpClientApi.csproj|solutionrelative:httpclientapi\\models\\links.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,58 +58,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BirdsService.cs",
-              "DocumentMoniker": "C:\\Users\\lvergara\\source\\repos\\HttpClientApi\\HttpClientApi\\Services\\BirdsService.cs",
-              "RelativeDocumentMoniker": "HttpClientApi\\Services\\BirdsService.cs",
-              "ToolTip": "C:\\Users\\lvergara\\source\\repos\\HttpClientApi\\HttpClientApi\\Services\\BirdsService.cs",
-              "RelativeToolTip": "HttpClientApi\\Services\\BirdsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T19:35:30.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lvergara\\source\\repos\\HttpClientApi\\HttpClientApi\\Program.cs",
-              "RelativeDocumentMoniker": "HttpClientApi\\Program.cs",
-              "ToolTip": "C:\\Users\\lvergara\\source\\repos\\HttpClientApi\\HttpClientApi\\Program.cs",
-              "RelativeToolTip": "HttpClientApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T19:34:58.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\lvergara\\source\\repos\\HttpClientApi\\HttpClientApi\\appsettings.json",
-              "RelativeDocumentMoniker": "HttpClientApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\lvergara\\source\\repos\\HttpClientApi\\HttpClientApi\\appsettings.json",
-              "RelativeToolTip": "HttpClientApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-26T19:33:24.031Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IBirdsService.cs",
-              "DocumentMoniker": "C:\\Users\\lvergara\\source\\repos\\HttpClientApi\\HttpClientApi\\Services\\IBirdsService.cs",
-              "RelativeDocumentMoniker": "HttpClientApi\\Services\\IBirdsService.cs",
-              "ToolTip": "C:\\Users\\lvergara\\source\\repos\\HttpClientApi\\HttpClientApi\\Services\\IBirdsService.cs",
-              "RelativeToolTip": "HttpClientApi\\Services\\IBirdsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAOAAAAAAAAAA==",
+              "Title": "BooksService.cs",
+              "DocumentMoniker": "C:\\Users\\lvergara\\source\\repos\\HttpClientApi\\HttpClientApi\\Services\\BooksService.cs",
+              "RelativeDocumentMoniker": "HttpClientApi\\Services\\BooksService.cs",
+              "ToolTip": "C:\\Users\\lvergara\\source\\repos\\HttpClientApi\\HttpClientApi\\Services\\BooksService.cs",
+              "RelativeToolTip": "HttpClientApi\\Services\\BooksService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T19:32:38.293Z",
+              "WhenOpened": "2024-08-26T22:19:31.356Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -108,14 +82,95 @@
               "RelativeDocumentMoniker": "HttpClientApi\\Controllers\\BirdsController.cs",
               "ToolTip": "C:\\Users\\lvergara\\source\\repos\\HttpClientApi\\HttpClientApi\\Controllers\\BirdsController.cs",
               "RelativeToolTip": "HttpClientApi\\Controllers\\BirdsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T19:29:47.487Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\lvergara\\source\\repos\\HttpClientApi\\HttpClientApi\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "HttpClientApi\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\lvergara\\source\\repos\\HttpClientApi\\HttpClientApi\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "HttpClientApi\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIAwwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:45:27.097Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lvergara\\source\\repos\\HttpClientApi\\HttpClientApi\\Program.cs",
+              "RelativeDocumentMoniker": "HttpClientApi\\Program.cs",
+              "ToolTip": "C:\\Users\\lvergara\\source\\repos\\HttpClientApi\\HttpClientApi\\Program.cs",
+              "RelativeToolTip": "HttpClientApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:34:58.654Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lvergara\\source\\repos\\HttpClientApi\\HttpClientApi\\appsettings.json",
+              "RelativeDocumentMoniker": "HttpClientApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\lvergara\\source\\repos\\HttpClientApi\\HttpClientApi\\appsettings.json",
+              "RelativeToolTip": "HttpClientApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T23:04:37.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "IBooksService.cs",
+              "DocumentMoniker": "C:\\Users\\lvergara\\source\\repos\\HttpClientApi\\HttpClientApi\\Services\\IBooksService.cs",
+              "RelativeDocumentMoniker": "HttpClientApi\\Services\\IBooksService.cs",
+              "ToolTip": "C:\\Users\\lvergara\\source\\repos\\HttpClientApi\\HttpClientApi\\Services\\IBooksService.cs",
+              "RelativeToolTip": "HttpClientApi\\Services\\IBooksService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T22:19:55.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BirdsService.cs",
+              "DocumentMoniker": "C:\\Users\\lvergara\\source\\repos\\HttpClientApi\\HttpClientApi\\Services\\BirdsService.cs",
+              "RelativeDocumentMoniker": "HttpClientApi\\Services\\BirdsService.cs",
+              "ToolTip": "C:\\Users\\lvergara\\source\\repos\\HttpClientApi\\HttpClientApi\\Services\\BirdsService.cs",
+              "RelativeToolTip": "HttpClientApi\\Services\\BirdsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:58:59.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBirdsService.cs",
+              "DocumentMoniker": "C:\\Users\\lvergara\\source\\repos\\HttpClientApi\\HttpClientApi\\Services\\IBirdsService.cs",
+              "RelativeDocumentMoniker": "HttpClientApi\\Services\\IBirdsService.cs",
+              "ToolTip": "C:\\Users\\lvergara\\source\\repos\\HttpClientApi\\HttpClientApi\\Services\\IBirdsService.cs",
+              "RelativeToolTip": "HttpClientApi\\Services\\IBirdsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:32:38.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Name.cs",
               "DocumentMoniker": "C:\\Users\\lvergara\\source\\repos\\HttpClientApi\\HttpClientApi\\Models\\Name.cs",
               "RelativeDocumentMoniker": "HttpClientApi\\Models\\Name.cs",
@@ -128,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Links.cs",
               "DocumentMoniker": "C:\\Users\\lvergara\\source\\repos\\HttpClientApi\\HttpClientApi\\Models\\Links.cs",
               "RelativeDocumentMoniker": "HttpClientApi\\Models\\Links.cs",
@@ -142,19 +197,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Images.cs",
-              "DocumentMoniker": "C:\\Users\\lvergara\\source\\repos\\HttpClientApi\\HttpClientApi\\Models\\Images.cs",
-              "RelativeDocumentMoniker": "HttpClientApi\\Models\\Images.cs",
-              "ToolTip": "C:\\Users\\lvergara\\source\\repos\\HttpClientApi\\HttpClientApi\\Models\\Images.cs",
-              "RelativeToolTip": "HttpClientApi\\Models\\Images.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\lvergara\\source\\repos\\HttpClientApi\\HttpClientApi\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "HttpClientApi\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\lvergara\\source\\repos\\HttpClientApi\\HttpClientApi\\Models\\Book.cs",
+              "RelativeToolTip": "HttpClientApi\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T19:27:54.088Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Bird.cs",
               "DocumentMoniker": "C:\\Users\\lvergara\\source\\repos\\HttpClientApi\\HttpClientApi\\Models\\Bird.cs",
               "RelativeDocumentMoniker": "HttpClientApi\\Models\\Bird.cs",

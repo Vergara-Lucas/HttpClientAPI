@@ -39,3 +39,5 @@ C:\Users\lvergara\source\repos\HttpClientApi\HttpClientApi\bin\Debug\net6.0\Micr
 C:\Users\lvergara\source\repos\HttpClientApi\HttpClientApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
 C:\Users\lvergara\source\repos\HttpClientApi\HttpClientApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
 C:\Users\lvergara\source\repos\HttpClientApi\HttpClientApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lvergara\source\repos\HttpClientApi\HttpClientApi\obj\Debug\net6.0\HttpClientApi.sourcelink.json
+C:\Users\lvergara\source\repos\HttpClientApi\HttpClientApi\bin\Debug\net6.0\Newtonsoft.Json.dll
