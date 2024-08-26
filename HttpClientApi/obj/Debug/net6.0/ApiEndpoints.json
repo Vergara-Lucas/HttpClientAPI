@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "HttpClientApi.Controllers.BirdsController",
+    "Method": "Get",
+    "RelativePath": "api/Birds",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
