@@ -1,5 +1,31 @@
 [
   {
+    "ContainingType": "HttpClientApi.Controllers.BeersController",
+    "Method": "Get",
+    "RelativePath": "api/Beers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HttpClientApi.Controllers.BeersController",
+    "Method": "GetById",
+    "RelativePath": "api/Beers/GetById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "HttpClientApi.Controllers.BirdsController",
     "Method": "Get",
     "RelativePath": "api/Birds",
